@@ -1,0 +1,9 @@
+python-dotenv
+yfinance
+packaging
+duckduckgo-search
+fastapi
+groq
+agno
+google
+ddgs
