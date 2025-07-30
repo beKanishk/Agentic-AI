@@ -1,5 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
 # Agentic-AI
 
 Agentic-AI is a collection of agent-based AI tools and examples, including implementations focused on financial data processing and video summarization. The repository demonstrates how AI agents can be built, extended, and applied using Python and complementary technologies.
