@@ -1,0 +1,13 @@
+prefix=D:/Python/Agentic AI/Video Summarizer/videosummarizer/Library
+exec_prefix=D:/Python/Agentic AI/Video Summarizer/videosummarizer/Library
+libdir=D:/Python/Agentic AI/Video Summarizer/videosummarizer/Library/lib
+sharedlibdir=D:/Python/Agentic AI/Video Summarizer/videosummarizer/Library/lib
+includedir=D:/Python/Agentic AI/Video Summarizer/videosummarizer/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
